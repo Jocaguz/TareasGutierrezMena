@@ -1,8 +1,6 @@
-#Python Banking Program
-import math
+# Python Banking Program
 
-
-def show_balance (balance):
+def show_balance(balance):
     print("*********************")
     print(f"Your balance is ${balance:.2f}")
     print("*********************")
